@@ -1,0 +1,3 @@
+gabinete 
+memoria Ram
+tarjeta madre
